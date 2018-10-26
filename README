@@ -1,0 +1,76 @@
+Roman Senin, ID: 912960296
+
+Yiran Wu, ID: 914704719
+
+Sources:
+
+- https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/
+
+    how the read and write system calls work
+
+
+- http://www.cplusplus.com/reference/string/string/substr/
+
+    string::substr functionalities
+
+
+- https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.3.0/com.ibm.zos.v2r3.bpxbd00/rtgtc.htm
+
+    how the getcwd call works
+
+- http://pubs.opengroup.org/onlinepubs/009695399/functions/chdir.html
+
+    chdir system call
+
+
+- http://pubs.opengroup.org/onlinepubs/009695399/functions/getenv.html
+
+    how to get the HOME environment variable
+
+
+- http://pubs.opengroup.org/onlinepubs/009604599/functions/opendir.html
+- http://pubs.opengroup.org/onlinepubs/009695299/functions/readdir_r.html
+- http://pubs.opengroup.org/onlinepubs/009695299/functions/closedir.html
+
+    how the opendir, readdir, and closedir system calls work
+
+
+- https://stackoverflow.com/questions/10323060/printing-file-permissions-like-ls-l-using-stat2-in-c
+
+    how to get the stats, i.e. type, permission, for a file
+
+
+- https://stackoverflow.com/questions/16587183/list-files-and-their-info-using-stat
+
+    how to pass full path to stat()
+
+
+- https://stackoverflow.com/questions/36419738/d-name-comparison-with-a-cstring-generating-core-dump
+
+    how to compare dp->d_name to a char*
+
+
+- https://stackoverflow.com/questions/27375040/append-a-char-to-a-stdvectorstring-at-a-specific-location
+
+
+- https://www.geeksforgeeks.org/dup-dup2-linux-system-call/
+ 	dup and dup2
+
+- https://www.geeksforgeeks.org/piping-in-unix-or-linux/
+	piping
+
+- pipe-system-u/homes/grr/SystemsProgrammingBook/Book/Chapter5-WritingYourOwnShell.pdf
+	pipe and redirect
+
+
+- https://stackoverflow.com/questions/48970420/creating-a-shell-in-c-how-would-i-implement-input-and-output-redirection	
+
+
+- //https://stackoverflow.com/questions/8082932/connecting-n-commands-with-pipes-in-a-shell
+	pipe
+-  // http://www.cs.ecu.edu/karl/4630/sum01/example1.html
+	fork, execvp, wait
+
+- //https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/Book/Chapter5-WritingYourOwnShell.pdf
+	implement shell
+	
