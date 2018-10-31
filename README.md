@@ -6,4 +6,4 @@ Mutiply pipes stills don't work.
 
 Author: Yiran Wu, Roman Seinn
 
-Created by Professor Christopher Nitta at UC Davis
+Created by Christopher J. Nitta, Professor at UC Davis.
